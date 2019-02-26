@@ -8,11 +8,11 @@ baseurl: ''
 
 author:
   name: 'Kellen'
-  # email: josh@joshgerdes.com
-  # twitter_username: joshgerdes
-  # facebook_username: joshgerdes
-  github_username:  Op9No2
-  # linkedin_username:  joshgerdes
+  # email: 
+  # twitter_username:  
+  # facebook_username: 
+  github_username: Op9No2
+  # linkedin_username: 
 
 defaults:
   -
