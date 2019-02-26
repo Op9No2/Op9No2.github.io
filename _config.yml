@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: Kellen
+description: 'My blog'
 url: 'https://op9no2.github.io/'
-baseurl: '/Op9No2.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: ' '
-  email:  
-  twitter_username:  
-  facebook_username:  
-  github_username:   
-  linkedin_username:  
+  name: 'Kellen'
+  # email: josh@joshgerdes.com
+  # twitter_username: joshgerdes
+  # facebook_username: joshgerdes
+  github_username:  Op9No2
+  # linkedin_username:  joshgerdes
 
 defaults:
   -

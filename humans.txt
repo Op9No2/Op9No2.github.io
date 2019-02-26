@@ -5,10 +5,10 @@ exclude: 'yes'
 ---
 
 /* TEAM */
-Developer & Designer: Josh Gerdes
-Twitter: @joshgerdes
-Site: http://joshgerdes.com
-Location: Minneapolis, MN, USA
+Developer & Designer:  
+Twitter:  
+Site:  
+Location:  
 						
 /* THANKS */
 Name: Dale Anthony
