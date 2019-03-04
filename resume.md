@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink: /Resume/
 ---
 
-This is my resume. [TBC]
+ <a class="sidebar-nav-item" href="index.html">My JSON Resume</a>

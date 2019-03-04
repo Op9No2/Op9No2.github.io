@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Kellen Hsieh",
+    "label": "Firmware / Software Engineer",
+    "picture": "",
+    "email": "Amethyst915@outlook.com",
+    "--phone": " ",
+    "website": "https://op9no2.github.io/",
+    "summary": "[TBC]",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "--profiles": [{
+      "network": " ",
+      "username": " ",
+      "url": " "
+    }]
+  },
+  "work": [
+  {
+    "company": "Kenxen Limited",
+    "position": "Senoir Firmware Engineer",
+    "website": "http://www.kenxen.com/",
+    "startDate": "2018-05-07",
+    "summary": "",
+    "highlights": [
+      "Dash camera firmware development (based on Novatek SOC)",
+	  "MPTools software development (based on Windows)"
+    ]
+  },
+  {
+    "company": "TCL medical(Taiwan team)",
+    "position": "Software Engineer",
+    "website": "http://sea.tclhealthcare.com/",
+    "startDate": "2016-03-14",
+    "endDate": "2018-04-30",
+    "summary": "",
+    "highlights": [
+      "MRI Clinical user interface development (based on Windows)",
+	  "MRI equipment IoT development (based on Embedded-Linux platform)"
+    ]
+  },
+ {
+    "company": "ACTi Corporation",
+    "position": "Firmware Engineer",
+    "website": "https://www.acti.com/",
+    "startDate": "2014-09-22",
+    "endDate": "2016-03-11",
+    "summary": "",
+    "highlights": [
+      "IPCAM Application development (based on Embedded-Linux platform)",
+	  "Lens zoom module development (based on Arm Cortex-M3)",
+	  "Lens IQC software development (based on Windows)"
+    ]
+  } 
+  ],
+  "education": [{
+    "institution": "National Taipei University of Technology",
+    "area": "Electronic Engineering",
+    "studyType": "Master",
+    "startDate": "2011-09-01",
+    "endDate": "2013-08-31"
+  }],
+  "skills": [
+  {
+    "name": "Firmware Development",
+    "level": "Master",
+    "keywords": [
+      "C/C++",
+      "UART, I2C, SPI, USB"
+    ]
+  },
+  {
+    "name": "Software Development",
+    "level": "Master",
+    "keywords": [
+      "C/C++",
+	  "Image Processing",
+      "GIT/SVN"
+    ]
+  }  
+  ],
+  "languages": [{
+    "language": "Chinese",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Sport",
+    "keywords": [
+      "Jogging",
+      "Diving"
+    ]
+  },
+  {
+    "name": "Music",
+    "keywords": [
+      "Piano"
+    ]
+  }
+  ],
+  "references": [{
+    "name": "Kellen Hsieh",
+    "reference": "Reference..."
+  }]
+}
