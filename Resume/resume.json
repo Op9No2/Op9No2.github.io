@@ -33,15 +33,15 @@
     ]
   },
   {
-    "company": "TCL medical (Taiwan team)",
+    "company": "TCL medical - MRI(Taiwan team)",
     "position": "Software Engineer",
-    "website": "http://sea.tclhealthcare.com/",
+    "website": "http://sea.tclmedical.com/",
     "startDate": "2016-03-14",
     "endDate": "2018-04-30",
     "summary": "",
     "highlights": [
 	  "MRI equipment IoT development",
-      "MRI Clinical user interface development"
+      "MRI clinical user interface development"
     ]
   },
  {
@@ -91,15 +91,15 @@
     "name": "Software Development",
     "level": "Master",
     "keywords": [
-	  "Windows MFC",
-      "C/C++ programing",
-	  "2D/3D Image processing",
+	  "MFC applications",
+	  "Windows/Linux C++",
+      "2D/3D image processing",
 	  "Open-source integration"
     ]
   },
   {
     "name": "General Skill",
-    "level": "Master",
+    "level": "Basic",
     "keywords": [
       "Linux",
       "Git/SVN"
