@@ -28,20 +28,20 @@
     "startDate": "2018-05-07",
     "summary": "",
     "highlights": [
-      "Dash camera firmware development (based on Novatek SOC)",
-	  "MPTools software development (based on Windows)"
+	  "MP-Tools software development",
+      "Dash camera firmware development"
     ]
   },
   {
-    "company": "TCL medical(Taiwan team)",
+    "company": "TCL medical (Taiwan team)",
     "position": "Software Engineer",
     "website": "http://sea.tclhealthcare.com/",
     "startDate": "2016-03-14",
     "endDate": "2018-04-30",
     "summary": "",
     "highlights": [
-      "MRI Clinical user interface development (based on Windows)",
-	  "MRI equipment IoT development (based on Embedded-Linux platform)"
+	  "MRI equipment IoT development",
+      "MRI Clinical user interface development"
     ]
   },
  {
@@ -52,42 +52,70 @@
     "endDate": "2016-03-11",
     "summary": "",
     "highlights": [
-      "IPCAM Application development (based on Embedded-Linux platform)",
-	  "Lens zoom module development (based on Arm Cortex-M3)",
-	  "Lens IQC software development (based on Windows)"
+	  "Lens zoom module development",
+	  "Lens IQC software development",
+      "IP-CAM Application development"
     ]
   } 
   ],
-  "education": [{
+  "education": [
+  {
     "institution": "National Taipei University of Technology",
-    "area": "Electronic Engineering",
-    "studyType": "Master",
+    "area": "Electronic Engineering, M.S.",
+    "studyType": "",
     "startDate": "2011-09-01",
     "endDate": "2013-08-31"
-  }],
+  },
+  {
+    "institution": "National Chin-Yi University of Technology",
+    "area": "Electronic Engineering, B.S.",
+    "studyType": "",
+    "startDate": "2007-09-01",
+    "endDate": "2011-06-30"
+  }
+  ],
   "skills": [
   {
     "name": "Firmware Development",
     "level": "Master",
     "keywords": [
-      "C/C++",
-      "UART, I2C, SPI, USB"
+	  "IoT",
+	  "RTOS",
+	  "BootLoader",
+      "Embedded-Linux",
+	  "Hardware schematic",
+      "UART, I2C, SPI, USB and etc.."
     ]
   },
   {
     "name": "Software Development",
     "level": "Master",
     "keywords": [
-      "C/C++",
-	  "Image Processing",
-      "GIT/SVN"
+	  "Windows MFC",
+      "C/C++ programing",
+	  "2D/3D Image processing",
+	  "Open-source integration"
     ]
-  }  
+  },
+  {
+    "name": "General Skill",
+    "level": "Master",
+    "keywords": [
+      "Linux",
+      "Git/SVN"
+    ]
+  }
   ],
-  "languages": [{
+  "languages": [
+  {
     "language": "Chinese",
     "fluency": "Native speaker"
-  }],
+  },
+  {
+    "language": "English",
+    "fluency": "Basic"
+  }
+  ],
   "interests": [{
     "name": "Sport",
     "keywords": [
@@ -102,8 +130,5 @@
     ]
   }
   ],
-  "references": [{
-    "name": "Kellen Hsieh",
-    "reference": "Reference..."
-  }]
+  "references": []
 }
