@@ -28,8 +28,9 @@
     "startDate": "2018-05-07",
     "summary": "",
     "highlights": [
-	  "MP-Tools software development",
-      "Dash camera firmware development"
+	"MP-Tools software development",
+	"Dash camera firmware development",
+	"Battery type camera firmware development"
     ]
   },
   {
@@ -41,7 +42,7 @@
     "summary": "",
     "highlights": [
 	  "MRI equipment IoT development",
-      "MRI clinical user interface development"
+      "MRI clinical user interface software maintain/development"
     ]
   },
  {
@@ -54,7 +55,7 @@
     "highlights": [
 	  "Lens zoom module development",
 	  "Lens IQC software development",
-      "IP-CAM Application development"
+      "IP-CAM Embedded-Linux Application development"
     ]
   } 
   ],
@@ -101,7 +102,7 @@
     "name": "General Skill",
     "level": "Basic",
     "keywords": [
-      "Linux",
+      "Linux/Makefile/Shell-script",
       "Git/SVN"
     ]
   }
